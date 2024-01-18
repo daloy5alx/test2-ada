@@ -1,6 +1,6 @@
 
 def hallar_divisores(n):
-	print(f"Los divisores de {n} son:", end=" ")
+	print(f"Los ddddddddddivisores de {n} son:", end=" ")
 	for i in range(1, n + 1):
 		if n % i == 0:
 			print(i, end=" ")
