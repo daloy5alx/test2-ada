@@ -1,4 +1,7 @@
 
+def nueva_funcion_que_no_hace_nada():
+	pass
+
 def hallar_divisores(n):
 	print(f"Los divisoressss de {n} son:", end=" ")
 	for i in range(1, n + 1):
